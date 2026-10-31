@@ -183,6 +183,9 @@ A few behaviours are deliberate rather than incidental:
 - Text layer quality is inherited from the source PDF; OCR errors in the original stay in the output.
 - Scanned PDFs without a text layer depend on OCR models being available.
 
-## License
+## See also
 
-No license file is included. Add one before distributing.
+Markdown Knowledge Indexer & Search Engine 
+(md_indexer-searcher)[https://github.com/Zheng-Bote/md_indexer-searcher]
+
+
