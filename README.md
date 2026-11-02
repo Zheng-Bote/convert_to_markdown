@@ -186,6 +186,6 @@ A few behaviours are deliberate rather than incidental:
 ## See also
 
 Markdown Knowledge Indexer & Search Engine 
-(md_indexer-searcher)[https://github.com/Zheng-Bote/md_indexer-searcher]
+[md_indexer-searcher](https://github.com/Zheng-Bote/md_indexer-searcher)
 
 
